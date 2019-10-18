@@ -1,0 +1,48 @@
+.main{
+    display: block;
+   margin-left: 100px;
+   border:10px  solid green;
+   background-color: rgb(250, 111, 60);
+    
+}
+  .image{
+      margin-left: 140px;
+      margin-top: 10px
+  }
+
+
+.wel1{
+    color: green;
+    font-size: 80px;
+    font-family: algerian;
+    margin-left: 140px;
+
+}
+button{
+    list-style-type: none;
+    font-size: 100px;
+    font-family: Baskerville Old Face;
+    background-color: goldenrod;
+    margin-left: 650px;
+    border-radius: 50px;
+    box-shadow: 0 9px greenyellow;
+    border: none;
+}
+.vist{
+    font-family: Baskerville Old Face;
+    font-size: 40px;
+    margin-right: 30px;
+    color: rgb(2, 68, 2);
+    margin-left: 140px;
+}
+.follow{
+    font-family: Chiller;
+    margin-left: 140px;
+    font-size: 30px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+        font-size: 30px;
+        margin-left: 300px;
+}
